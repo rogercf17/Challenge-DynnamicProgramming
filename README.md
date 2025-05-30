@@ -31,15 +31,15 @@ Além disso, aplicamos **técnicas de programação dinâmica** para otimizar op
 ---
 
 ## Funcionalidades do Sistema
-Cálculo de volume das amostras com **memoization**.  
-Filtros por medidas críticas.  
-Soma total dos volumes com **função recursiva**.  
-Busca binária de exames por ID.  
-Validação de medidas (Dupla checagem automatizada).  
-Análise estatística: média e desvio padrão das medidas.  
-Exportação de relatórios `.txt` e `.csv`.  
-Geração de **gráfico de barras** com volumes.   
-Medição de **tempo de execução** e **uso de memória** com `time` e `tracemalloc`.
+- Cálculo de volume das amostras com **memoization**.  
+- Filtros por medidas críticas.  
+- Soma total dos volumes com **função recursiva**.  
+- Busca binária de exames por ID.  
+- Validação de medidas (Dupla checagem automatizada).  
+- Análise estatística: média e desvio padrão das medidas.  
+- Exportação de relatórios `.txt` e `.csv`.  
+- Geração de **gráfico de barras** com volumes.   
+- Medição de **tempo de execução** e **uso de memória** com `time` e `tracemalloc`.
 
 ---
 
@@ -95,11 +95,11 @@ python nome_do_script.py
 ---
 
 ## Normas e Boas Práticas
-Código modular e comentado.  
-Uso de logging para rastreamento.  
-Tratamento de exceções.  
-Exportações automatizadas.  
-Foco na eficiência computacional.
+- Código modular e comentado.  
+- Uso de logging para rastreamento.  
+- Tratamento de exceções.  
+- Exportações automatizadas.  
+- Foco na eficiência computacional.
 
 ---
 
